@@ -1,6 +1,5 @@
 import shelve
 from datetime import datetime, timedelta, date
-from hist import hist
 import sys
 import numpy as np
 
